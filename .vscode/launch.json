@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TesteContaBancaria",
+            "request": "launch",
+            "mainClass": "conta.TesteContaBancaria",
+            "projectName": "Aulas Rockseat_ec2db07b"
+        },
+        {
+            "type": "java",
             "name": "TesteDePessoa",
             "request": "launch",
             "mainClass": "pessoa.TesteDePessoa",
