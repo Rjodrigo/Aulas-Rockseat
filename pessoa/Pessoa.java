@@ -2,7 +2,7 @@ package pessoa;
 
 public class Pessoa {
     // nome, idade, cpf
-    //tipo nomeDaVatiavel
+    //tipo nomeDaVariavel
 
     private String nome;
     private int idade;

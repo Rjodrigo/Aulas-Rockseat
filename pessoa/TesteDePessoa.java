@@ -1,7 +1,7 @@
 package pessoa;
 
 public class TesteDePessoa {
-      
+         
     public static void main(String[] args) {
         Professor professor = new Professor();
         professor.setCpf("333222111");
