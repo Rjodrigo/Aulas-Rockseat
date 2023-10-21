@@ -42,7 +42,7 @@ public class ContaBancaria {
             saldo = saldo + valor;
             System.out.println("Depósito de R$ " + valor + ". Saldo atual R$ " + saldo);
         }else {
-            System.out.println("O valo de depósito é invalido.");
+            System.out.println("O valor de depósito é invalido.");
         }
     }
     //sacar
